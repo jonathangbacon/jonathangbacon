@@ -12,6 +12,6 @@ Currently researching the efficacy of PPAR alpha agonists and CETP inhibitors on
 
 :sparkler: Past Experience
 
-For more information regarding my other experiences, check out my [![<LinkedIn>](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jonathan-bacon-9601b9189/)
+For more information regarding my other experiences, check out my linkedin below. <br> [![<LinkedIn>](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jonathan-bacon-9601b9189/)
 ## :mailbox_closed: Contact Me ##
 Please reach me at jonathanbacon@uchicago.edu
